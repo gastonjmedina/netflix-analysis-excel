@@ -62,7 +62,7 @@ El dataset contiene información sobre títulos disponibles en Netflix, incluyen
 ## Visualización de datos
 
 ### Dataset original
-![Raw Data](images/raw_data.png)
+![Raw Data](images/raw_table.png)
 
 ### Dataset procesado
 ![Processed Data](images/main_table.png)
