@@ -55,6 +55,8 @@ El dataset contiene información sobre títulos disponibles en Netflix, incluyen
 
 ## Dashboard
 
+Nota: En Microsoft Excel (Office 365) algunas funcionalidades avanzadas de visualización o personalización pueden ser limitadas, lo que puede afectar el nivel de detalle estético del dashboard.
+
 ![Dashboard](images/dashboard_overview.png)
 
 ---
@@ -76,8 +78,3 @@ El dataset contiene información sobre títulos disponibles en Netflix, incluyen
 - `data/netflix_dataset.xlsx` → dataset original  
 - `images/` → capturas del proyecto  
 
----
-
-## Nota
-
-Este proyecto fue desarrollado utilizando Microsoft Excel (Office 365), por lo cual algunas funcionalidades avanzadas de visualización o personalización pueden ser limitadas, lo que puede afectar el nivel de detalle estético del dashboard.
